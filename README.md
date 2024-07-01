@@ -1,5 +1,3 @@
-# projeto-rpg
-
 # RPG de Turno em Java
 
 Bem-vindo ao projeto de RPG de Turno em Java! Este projeto é uma implementação básica de um jogo de RPG de turno utilizando os fundamentos de Programação Orientada a Objetos (POO) e outras estruturas essenciais da linguagem Java, como laços de repetição e condicionais. O jogo apresenta personagens jogáveis, inimigos, combate, inventário, sistema de vendedor e progressão de personagens.
