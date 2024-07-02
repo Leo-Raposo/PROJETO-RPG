@@ -82,10 +82,6 @@ Bem-vindo ao projeto de RPG de Turno em Java! Este projeto é uma implementaçã
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para discutir novas funcionalidades ou reportar bugs. Pull requests também são bem-vindos.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 Desenvolvido como projeto acadêmico para demonstração de conceitos de Programação Orientada a Objetos e estruturas de controle em Java.
